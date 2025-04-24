@@ -1,1 +1,1 @@
-# PCA_lab
+# Реализация Principle Component Analysis без использования numpy и подобных
